@@ -1,0 +1,116 @@
+#root{
+display: grid;
+justify-content: center;
+align-items: center;
+padding: 50px;
+}
+
+.login-container
+{
+    width: 300px;
+    padding: 20px;
+    display: grid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Arial, sans-serif;
+}
+
+.login-header
+{
+    width: 150px;
+    margin-left: 75px;
+    margin-bottom:10px;
+}
+
+.button-box
+{
+    width: 220px;
+    margin: 30px auto;
+    position: relative;
+    box-shadow: 0 0 1px 0px #808080;
+    border-radius: 30px;
+}
+
+.toggle-btn
+{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    text-align: center;
+}
+
+#btn
+{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    border-radius: 35px;
+    background: linear-gradient(to right, #4666FF, #4666FF)
+
+}
+
+.text-box
+{
+    width: 220px;
+    margin: 10px auto;
+    position: relative;
+    box-shadow: 0 0 1px 0px #808080;
+    border-radius: 30px;
+}
+
+.input
+{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    text-align: left;
+}
+
+#txt
+{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    border-radius: 35px;
+}
+
+.button-login
+{
+   width: 110px;
+    margin: 10px auto;
+    position: relative;
+    box-shadow: 0 0 1px 0px #808080;
+    border-radius: 30px;
+}
+
+.login-btn
+{
+    padding: 12px 40px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    text-align: center;
+    
+}
+
+#btn-log
+{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    border-radius: 35px;
+    background: linear-gradient(to right, #4666FF, #4666FF)
+
+}
